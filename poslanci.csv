@@ -2075,7 +2075,7 @@ Kód obce;volebný obvod;poradie na hlasovacom lístku;meno;priezvisko;titul;vek
 501620;1;7;Attila;Szabó;;57;odborný referent;001;259
 501620;1;8;Marek;Šoun;LL.M;44;riaditeľ občianskeho združenia;136;71
 501620;1;9;Ján;Tóth;;54;živnostník;145;202
-501638;1;1;Janka;Almášiová;Mgr.;50;učiteľka;;119;248
+501638;1;1;Janka;Almášiová;Mgr.;50;učiteľka;119;248
 501638;1;2;Ján;Karaba;Ing.,MSc.;39;energetik;119;312
 501638;1;3;František;Kavecký;Ing.;53;redaktor, manažér;001;527
 501638;1;4;Vladimír;Kirschner;;33;prípravár;124;274
@@ -36416,11 +36416,11 @@ Kód obce;volebný obvod;poradie na hlasovacom lístku;meno;priezvisko;titul;vek
 529494;1;1;Dušan;Antoš;;63;podnikateľ;001;723
 529494;1;2;Juraj;Bognár;Mgr.;24;dobrovoľník;128;182
 529494;1;3;Patrick Marco;Boško;;23;technical writer;140;66
-529494;1;4;Stanislava;Bruncviková;Mgr.;37;šéfredaktorka; dobrovoľníčka;001;765
+529494;1;4;Stanislava;Bruncviková;Mgr.;37;šéfredaktorka, dobrovoľníčka;001;765
 529494;1;5;Anton;Dostál;MVDr., PhD.;60;hlavný štátny radca;001;153
-529494;1;6;Peter;Filaga;Mgr.;34;hasič; podnikateľ;001;781
+529494;1;6;Peter;Filaga;Mgr.;34;hasič, podnikateľ;001;781
 529494;1;7;Juraj;Glazer-Opitz;;43;vodič autobusu;001;777
-529494;1;8;Peter;Golej;;47;prezident futbalového klubu; štátny zamestnanec;001;871
+529494;1;8;Peter;Golej;;47;prezident futbalového klubu, štátny zamestnanec;001;871
 529494;1;9;Friedrik;Heidema;MSc.;53;konzultant;147,124;623
 529494;1;10;Radovan;Jenčík;;44;poslanec mestského zastupiteľstva;001;1060
 529494;1;11;Róbert;Kalmár;Ing.;42;ekonóm;147,124;701
@@ -36428,14 +36428,14 @@ Kód obce;volebný obvod;poradie na hlasovacom lístku;meno;priezvisko;titul;vek
 529494;1;13;Stanislava;Kertesová;MUDr.;53;manažérka;120;115
 529494;1;14;Martin;Kubánka;Ing.;64;podnikateľ;001;758
 529494;1;15;Miriama;Letovanec;Ing.;37;analytička;147,124;639
-529494;1;16;František;Lošonský;;45;podnikateľ; predseda OZ;001;868
+529494;1;16;František;Lošonský;;45;podnikateľ, predseda OZ;001;868
 529494;1;17;Kristián;Méry;;18;študent;140;62
 529494;1;18;Vladimír;Mokráň;Mgr.;50;IT špecialista;147,124;678
 529494;1;19;Branislav;Ostrihoň;Ing.;36;projektový manažér;139;157
 529494;1;20;Karol;Petržílka;;67;dôchodca;106;38
 529494;1;21;Roman;Porubec;Ing. arch.;45;architekt;147,124;640
 529494;1;22;Lucia;Tuleková Henčelová;PhDr., PhD.;42;starostka;147,124;736
-529494;1;23;Veronika;Vandrášeková;Mgr.;36;žurnalistka; dobrovoľníčka;001;749
+529494;1;23;Veronika;Vandrášeková;Mgr.;36;žurnalistka, dobrovoľníčka;001;749
 529494;1;24;Katarína;Zjavková;Mgr.;44;sociálna pracovníčka so zameraním na špecifické pedagogické problémy;147,124;679
 542652;1;1;Pavol;Dubnický;;62;výsluhový dôchodca;106,136;157
 542652;1;2;Iveta;Duchoňová;Mgr.;50;riaditeľka zariadenia seniorov;001;283
